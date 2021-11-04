@@ -1,0 +1,8 @@
+<html>
+  <title>samurai</title>
+  <body>
+    <h1>samurai</h1>
+    <p>Here is a image of a samurai from Ghost of Tsushima.</p>
+    <img src="samurai.jpg">
+  </body>
+ </html>
